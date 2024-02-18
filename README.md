@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dan
-- 👀 I’m interested in git, jenkins, docker, python, bash and AWS cloud services
+- 👀 I’m interested in IaC and AWS cloud services
 - 🌱 I’m currently working on getting better with CI/CD and DevOps platforms
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me @danplarkin@gmail.com
